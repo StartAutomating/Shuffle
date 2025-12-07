@@ -106,7 +106,13 @@ PrivateData = @{
         # IconUri = ''
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = @'
+## Shuffle 0.1:
+
+* A Simple Shuffle module (#1)
+* With a simple build (#2) 
+* And a single command: `Get-Shuffle` (#3)        
+'@
 
         # Prerelease string of this module
         # Prerelease = ''
